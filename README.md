@@ -9,7 +9,6 @@ This web application allows users to read and write blogs about technical concep
 https://github.com/Pwhitlock131/Tech-Blog
 
 
-
 # Credits
-Tyler Calvert 
-Dustin Burns
+1. Tyler Calvert 
+2. Dustin Burns
